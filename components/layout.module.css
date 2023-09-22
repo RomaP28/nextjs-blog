@@ -10,6 +10,10 @@
     align-items: center;
 }
 
+.header img {
+    object-fit: cover;
+}
+
 .backToHome {
     margin: 3rem 0 0;
 }
